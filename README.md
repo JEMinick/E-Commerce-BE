@@ -17,7 +17,7 @@
 
 ## Description: 
 
-The primary motivation for creating E-Commerce-BE was to create a back-end API that will provide an interface which provides information and updates for a real-time inventory database in order for me to mananage my new e-commerce portal..
+The primary motivation for creating E-Commerce-BE was to create a back-end API that provides an interface which delivers information and updates to a real-time inventory database in order for me to mananage my new e-commerce portal.
 The problem being addressed and resolved with this app is to provide a real-time inventory for my new e-commerce web site.
 By creating this app, I learned the following: Sequelize and establishing a many-to-many relationship within a relational database.
 
@@ -31,7 +31,7 @@ By creating this app, I learned the following: Sequelize and establishing a many
 ## Installation
 <a name="installation"></a>
 
-Modules and packages required to be installed:
+Modules and packages required to be installed (specifics are defined in package.json):
 
 ```shell
 npm i
@@ -40,7 +40,10 @@ npm i
 ## Usage
 <a name="usage"></a>
 
-To run this application, npm start
+To run this application:
+```shell
+npm start
+```
 
 ## Contributing
 <a name="contributing"></a>
